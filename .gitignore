@@ -213,8 +213,6 @@ tags
 *.xml
 *.otb
 *.otbm
-*.spr
-*.dat
 *.pic
 config.otml
 
